@@ -1,2 +1,2 @@
-# Pi_estimator_using_uniform_RV
+# Pi estimator
 Estimates the value of PI using uniform random number generator
